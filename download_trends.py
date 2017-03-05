@@ -6,7 +6,7 @@ from pandas import concat
 from pandas import merge
 import time
 
-DAYS_FETCH = 60
+DAYS_FETCH = 260
 WINDOW_SIZE = 20
 
 
