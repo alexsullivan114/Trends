@@ -1,0 +1,104 @@
+symbol,stock,price,,change,percentchange
+ACN,ACN,164.41,,-2.09,-1.26%
+AVP,AVP,164.41,,-2.09,-1.26%
+AMGN,AMGN,164.41,,-2.09,-1.26%
+AMZN,AMZN,164.41,,-2.09,-1.26%
+ATVI,ATVI,164.41,,-2.09,-1.26%
+AVGO,AVGO,164.41,,-2.09,-1.26%
+BIDU,BIDU,164.41,,-2.09,-1.26%
+BIIB,Biogen Inc,283.58,,-3.45,-1.20%
+BMRN,Biomarin Pharmaceutical Inc,82.84,,-0.51,-0.61%
+CA,CA Inc,31.77,,-0.37,-1.15%
+CELG,Celgene Corp,115.75,,-1.18,-1.01%
+CERN,Cerner Corp,47.37,,-0.55,-1.15%
+CHKP,Check Point Software Technologies Ltd,84.46,,-0.59,-0.69%
+CHTR,Charter Communications Inc,287.92,,-4.27,-1.46%
+CMCSA,Comcast Corp,69.05,,-0.765,-1.10%
+COST,Costco Wholesale Corp,160.11,,-1.02,-0.63%
+CSCO,Cisco Systems Inc,30.22,,-0.24,-0.79%
+CSX,CSX Corp,35.93,,-0.3,-0.83%
+CTRP,Ctrip.Com International Ltd,40,,0.01,0.03%
+CTSH,Cognizant Technology Solutions Corp,56.03,,-0.15,-0.27%
+CTXS,Citrix Systems Inc,89.31,,-0.71,-0.79%
+DISCA,Discovery Communications Inc,27.41,,-0.28,-1.01%
+DISCK,Discovery Communications Inc,26.78,,-0.23,-0.85%
+DISH,DISH Network Corp,57.93,,-0.47,-0.80%
+DLTR,Dollar Tree Inc,77.18,,-0.16,-0.21%
+EA,Electronic Arts,78.76,,-1.4,-1.75%
+EBAY,eBay Inc,29.69,,-0.29,-0.97%
+ESRX,Express Scripts Holding Co,68.79,,-0.6,-0.86%
+EXPE,Expedia Inc,113.28,,-0.69,-0.61%
+FAST,Fastenal Co,46.98,,-0.23,-0.49%
+FB,Facebook,115.05,,-1.3,-1.12%
+FISV,Fiserv Inc,106.28,,-1,-0.93%
+FOX,21st Century Fox Class B,27.25,,-0.23,-0.84%
+FOXA,21st Century Fox Class A,28.04,,-0.24,-0.85%
+GILD,Gilead Sciences Inc,71.61,,-0.52,-0.72%
+GOOG,Alphabet Class C,771.82,,-10.97,-1.40%
+GOOGL,Alphabet Class A,792.45,,-10.43,-1.30%
+HSIC,Henry Schein Inc,151.71,,-1.41,-0.92%
+ILMN,Illumina Inc,128.04,,-0.68,-0.53%
+INCY,Incyte Corp,100.27,,-1.69,-1.66%
+INTC,Intel Corp,36.27,,-0.39,-1.06%
+INTU,Intuit Inc,114.61,,-0.31,-0.27%
+ISRG,Intuitive Surgical Inc,634.17,,-2.38,-0.37%
+JD,JD.com Inc,25.44,,-0.2,-0.78%
+KHC,Kraft Heinz Co,87.32,,-0.61,-0.69%
+LBTYA,Liberty Global PLC,30.59,,-0.21,-0.68%
+LLTC,Linear Technology Corp,62.35,,-0.22,-0.35%
+LRCX,Lam Research Corp,105.73,,-1.42,-1.33%
+MAR,Marriott International Inc,82.68,,-0.64,-0.77%
+MAT,Mattel Inc,27.55,,-0.08,-0.29%
+MCHP,Microchip Technology Inc,64.15,,-0.61,-0.94%
+MDLZ,Mondelez International Inc,44.33,,-0.51,-1.14%
+MNST,Monster Beverage Corp,44.34,,-0.69,-1.53%
+MSFT,Microsoft Corp,62.14,,-0.76,-1.21%
+MU,Micron Technology Inc,21.92,,-0.35,-1.57%
+MXIM,Maxim Integrated Products Inc,38.57,,-0.45,-1.15%
+MYL,Mylan NV,38.15,,0.77,2.06%
+NCLH,Norwegian Cruise Line Holdings Ltd,42.53,,-0.13,-0.30%
+NFLX,Netflix Inc,123.8,,-1.53,-1.22%
+NTAP,NetApp Inc,35.27,,-0.41,-1.15%
+NTES,NetEase Inc,215.34,,-7.66,-3.44%
+NVDA,NVIDIA Corp,106.74,,-4.69,-4.21%
+NXPI,NXP Semiconductors NV,98.01,,-0.09,-0.09%
+ORLY,O'Reilly Automotive Inc,278.41,,-3.23,-1.15%
+PAYX,Paychex Inc,60.88,,-0.52,-0.85%
+PCAR,PACCAR Inc,63.9,,-0.47,-0.73%
+PCLN,The Priceline Group,1466.0601,,-14.0999,-0.95%
+PYPL,PayPal Holdings Inc,39.47,,-0.49,-1.23%
+QCOM,Qualcomm Inc,65.2,,-0.84,-1.27%
+QVCA,Liberty Interactive Corp,19.98,,-0.01,-0.05%
+REGN,Regeneron Pharmaceuticals Inc,367.09,,-6.63,-1.77%
+ROST,Ross Stores Inc,65.6,,-0.77,-1.16%
+SBAC,SBA Communications Corp,103.26,,-0.69,-0.66%
+SBUX,Starbucks Corp,55.52,,-0.8,-1.42%
+SIRI,Sirius XM Holdings Inc,4.45,,-0.025,-0.56%
+SRCL,Stericycle Inc,77.04,,0.18,0.23%
+STX,Seagate Technology PLC,38.17,,0.15,0.39%
+SWKS,Skyworks Solutions Inc,74.66,,-1.9,-2.48%
+SYMC,Symantec Corp,23.89,,-0.34,-1.40%
+TMUS,T-Mobile US Inc,57.51,,-0.54,-0.93%
+TRIP,TripAdvisor Inc,46.37,,-0.58,-1.24%
+TSCO,Tractor Supply Co,75.81,,-0.21,-0.28%
+TSLA,Tesla Motors Inc,213.69,,-0.99,-0.46%
+TXN,Texas Instruments Inc,72.97,,-1.18,-1.59%
+ULTA,Ulta Salon Cosmetics and Fragrance Inc,254.94,,-2.4,-0.93%
+VIAB,Viacom Inc,35.1,,-0.18,-0.51%
+VOD,Vodafone Group PLC,24.43,,-0.1,-0.41%
+VRSK,Verisk Analytics Inc,81.17,,-0.53,-0.65%
+VRTX,Vertex Pharmaceuticals Inc,73.67,,-0.77,-1.03%
+WBA,Walgreens Boots Alliance Inc,82.76,,-0.72,-0.86%
+WDC,Western Digital Corp,67.95,,-0.48,-0.70%
+WFM,Whole Foods Market Inc,30.76,,-0.25,-0.81%
+XLNX,Xilinx Inc,60.37,,-0.37,-0.61%
+YHOO,Yahoo Inc,38.67,,0.03,0.08%
+XRAY,Dentsply Sirona Inc,57.73,,-0.52,
+VRSK,Verisk Analytics Inc,81.17,,-0.53,-0.65%
+VRTX,Vertex Pharmaceuticals Inc,73.67,,-0.77,-1.03%
+WBA,Walgreens Boots Alliance Inc,82.76,,-0.72,-0.86%
+WDC,Western Digital Corp,67.95,,-0.48,-0.70%
+WFM,Whole Foods Market Inc,30.76,,-0.25,-0.81%
+XLNX,Xilinx Inc,60.37,,-0.37,-0.61%
+YHOO,Yahoo Inc,38.67,,0.03,0.08%
+XRAY,Dentsply Sirona Inc,57.73,,-0.52,
