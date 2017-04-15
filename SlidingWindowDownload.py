@@ -24,7 +24,7 @@ class SlidingWindowDownload(object):
             print("Requesting from " + str(date) + " to " + str(window_end))
             accumulated_data.append(self.__make_api_request(date, window_end, keywords))
             date += delta
-            time.sleep(random.randint(1, 60))
+            time.sleep(random.randint(1, 20))
         return accumulated_data
 
     def __make_api_request(self, start_date, end_date, keywords):
