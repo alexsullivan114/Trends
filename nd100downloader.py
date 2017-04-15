@@ -6,13 +6,11 @@ import os
 import time
 import TrendNormalizer
 
-###Failing stocks: MDLZ, NCLH
+d1 = date.today()
+d2 = datetime.strptime("Jan 1 2011", "%b %d %Y").date()
 
 nd100 = read_csv("nd100.csv")
 symbols = nd100['symbol'].tolist()
-
-d1 = date.today()
-d2 = datetime.strptime("Jan 1 2011", "%b %d %Y").date()
 
 for s in symbols:
     print("Fetching data for " + s)
