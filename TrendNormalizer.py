@@ -19,7 +19,7 @@ def normalize(path):
         for i in itertools.count():
             df1 = pd.read_csv(filepath_or_buffer=os.path.join(normalized_path, str(i) + '.csv'), index_col=False)
             df2 = pd.read_csv(filepath_or_buffer=os.path.join(path, str(i + 1) + '.csv'), index_col=False)
-            __normalize_pair(df1, df2)
+            normalize_pair(df1, df2)
             df1.to_csv(path_or_buf=os.path.join(normalized_path, str(i) + '.csv'), index=False)
             df2.to_csv(path_or_buf=os.path.join(normalized_path, str(i + 1) + '.csv'), index=False)
             final_df = pd.concat([final_df, df2])
@@ -30,7 +30,7 @@ def normalize(path):
     final_df.to_csv(path_or_buf=os.path.join(normalized_path, "master.csv"), index=False)
 
 
-def __normalize_pair(old, new):
+def normalize_pair(old, new):
     old.columns = ['date', 'value']
     new.columns = ['date', 'value']
     df_intersection = pd.merge(old, new, how='inner', on='date', suffixes=('_l', '_r'))
@@ -39,10 +39,10 @@ def __normalize_pair(old, new):
     ratio = sum(l_values) / sum(r_values)
     # Actually apply the normalizing ratio.
     new['value'] = new['value'].apply(lambda x: x * ratio)
-    __average_pair(old, new)
+    average_pair(old, new)
 
 
-def __average_pair(old, new):
+def average_pair(old, new):
     df_intersection = pd.merge(old, new, how='inner', on='date', suffixes=('_l', '_r'))
     intersection_date_series = df_intersection['date']
     for d in intersection_date_series:

@@ -3,8 +3,113 @@
   <component name="ChangeListManager">
     <list default="true" id="f3c3a676-b2f4-4f0f-a0a0-81c714964a33" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SlidingWindowDownload.py" afterPath="$PROJECT_DIR$/SlidingWindowDownload.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TrendNormalizer.py" afterPath="$PROJECT_DIR$/TrendNormalizer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/customtrend.py" afterPath="$PROJECT_DIR$/customtrend.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nd100updater.py" afterPath="$PROJECT_DIR$/nd100updater.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/ACN/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/ACN/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/AMGN/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/AMGN/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/AMZN/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/AMZN/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/ATVI/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/ATVI/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/AVGO/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/AVGO/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/AVP/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/AVP/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/BIDU/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/BIDU/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/BIIB/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/BIIB/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/BMRN/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/BMRN/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/CA/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/CA/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/CELG/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/CELG/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/CERN/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/CERN/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/CHKP/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/CHKP/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/CHTR/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/CHTR/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/CMCSA/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/CMCSA/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/COST/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/COST/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/CSCO/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/CSCO/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/CSX/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/CSX/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/CTRP/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/CTRP/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/CTSH/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/CTSH/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/CTXS/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/CTXS/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/DISCA/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/DISCA/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/DISCK/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/DISCK/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/DISH/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/DISH/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/DLTR/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/DLTR/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/EA/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/EA/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/EBAY/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/EBAY/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/ESRX/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/ESRX/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/EXPE/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/EXPE/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/FAST/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/FAST/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/FB/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/FB/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/FISV/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/FISV/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/FOX/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/FOX/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/FOXA/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/FOXA/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/GILD/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/GILD/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/GOOG/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/GOOG/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/GOOGL/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/GOOGL/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/HSIC/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/HSIC/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/ILMN/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/ILMN/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/INCY/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/INCY/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/INTC/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/INTC/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/INTU/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/INTU/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/ISRG/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/ISRG/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/JD/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/JD/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/KHC/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/KHC/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/LBTYA/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/LBTYA/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/LLTC/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/LLTC/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/LRCX/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/LRCX/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/MAR/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/MAR/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/MAT/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/MAT/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/MCHP/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/MCHP/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/MDLZ/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/MDLZ/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/MNST/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/MNST/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/MSFT/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/MSFT/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/MU/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/MU/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/MXIM/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/MXIM/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/MYL/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/MYL/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/NCLH/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/NCLH/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/NFLX/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/NFLX/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/NTAP/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/NTAP/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/NTES/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/NTES/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/NVDA/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/NVDA/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/NXPI/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/NXPI/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/ORLY/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/ORLY/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/PAYX/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/PAYX/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/PCAR/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/PCAR/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/PCLN/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/PCLN/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/PYPL/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/PYPL/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/QCOM/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/QCOM/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/QVCA/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/QVCA/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/REGN/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/REGN/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/ROST/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/ROST/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/SBAC/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/SBAC/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/SBUX/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/SBUX/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/SIRI/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/SIRI/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/SRCL/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/SRCL/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/STX/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/STX/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/SWKS/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/SWKS/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/SYMC/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/SYMC/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/TMUS/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/TMUS/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/TRIP/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/TRIP/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/TSCO/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/TSCO/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/TSLA/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/TSLA/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/TXN/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/TXN/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/ULTA/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/ULTA/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/VIAB/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/VIAB/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/VOD/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/VOD/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/VRSK/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/VRSK/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/VRTX/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/VRTX/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/WBA/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/WBA/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/WDC/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/WDC/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/WFM/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/WFM/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/XLNX/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/XLNX/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/XRAY/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/XRAY/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/YHOO/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/YHOO/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/change/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/change/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/debt/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/debt/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/dow/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/dow/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/inheritance/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/inheritance/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/online trading/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/online trading/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/percentchange/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/percentchange/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/price/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/price/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/stock/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/stock/normalized/master.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbols/symbol/normalized/master.csv" afterPath="$PROJECT_DIR$/symbols/symbol/normalized/master.csv" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,7 +121,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Trends$nd100downloader.coverage" NAME="nd100downloader Coverage Results" MODIFIED="1492254150735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/Trends$keyword_downloader.coverage" NAME="keyword_downloader Coverage Results" MODIFIED="1491245365737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Trends$nd100updater.coverage" NAME="nd100updater Coverage Results" MODIFIED="1492256102935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Trends$nd100updater.coverage" NAME="nd100updater Coverage Results" MODIFIED="1492353596680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -24,23 +129,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="nd100downloader.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nd100downloader.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="56" />
-              <folding>
-                <element signature="e#0#27#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="nd100updater.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nd100updater.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="289">
+              <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -48,54 +141,42 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="common.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pandas/io/common.py">
+      <file leaf-file-name="19.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/symbols/ACN/19.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="649">
-              <caret line="331" column="0" lean-forward="false" selection-start-line="331" selection-start-column="0" selection-end-line="331" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.IntelliJIdea2017.1/system/python_stubs/282273436/builtins.py">
+      <file leaf-file-name="20.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/symbols/ACN/20.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="5215" column="8" lean-forward="false" selection-start-line="5215" selection-start-column="8" selection-end-line="5215" selection-end-column="8" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="18.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/symbols/ACN/18.csv">
+      <file leaf-file-name="master.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/symbols/EBAY/normalized/master.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="17.csv" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/symbols/ACN/17.csv">
+      <file leaf-file-name="master.csv" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/symbols/YHOO/normalized/master.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-943">
-              <caret line="121" column="13" lean-forward="true" selection-start-line="121" selection-start-column="13" selection-end-line="121" selection-end-column="13" />
+            <state relative-caret-position="-38517">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SlidingWindowDownload.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SlidingWindowDownload.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="19" />
-              <folding>
-                <element signature="e#0#37#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -103,31 +184,53 @@
       <file leaf-file-name="customtrend.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/customtrend.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            <state relative-caret-position="255">
+              <caret line="15" column="86" lean-forward="false" selection-start-line="15" selection-start-column="86" selection-end-line="15" selection-end-column="86" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="updatedownloader.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/updatedownloader.py">
+      <file leaf-file-name="master.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/symbols/ACN/normalized/master.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="289">
+              <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="glob.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/glob.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nd100downloader.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nd100downloader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="46" lean-forward="false" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
               <folding>
-                <element signature="e#0#35#0" expanded="true" />
+                <element signature="e#0#27#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="request.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pytrends/request.py">
+      <file leaf-file-name="SlidingWindowDownload.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SlidingWindowDownload.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-              <folding />
+            <state relative-caret-position="381">
+              <caret line="34" column="48" lean-forward="false" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="58" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -191,17 +294,19 @@
         <option value="$PROJECT_DIR$/downloader.py" />
         <option value="$PROJECT_DIR$/test.csv" />
         <option value="$PROJECT_DIR$/testing.py" />
-        <option value="$PROJECT_DIR$/TrendNormalizer.py" />
         <option value="$PROJECT_DIR$/master_download.py" />
         <option value="$PROJECT_DIR$/keyword_downloader.py" />
         <option value="$PROJECT_DIR$/download_trends.py" />
-        <option value="$PROJECT_DIR$/nd100downloader.py" />
         <option value="$PROJECT_DIR$/SlidingWindowDownload.py" />
         <option value="$PROJECT_DIR$/symbols/ACN/18.csv" />
-        <option value="$PROJECT_DIR$/nd100updater.py" />
         <option value="$PROJECT_DIR$/custompytrend.py" />
-        <option value="$PROJECT_DIR$/customtrend.py" />
         <option value="$PROJECT_DIR$/updatedownloader.py" />
+        <option value="$PROJECT_DIR$/nd100downloader.py" />
+        <option value="$PROJECT_DIR$/TrendNormalizer.py" />
+        <option value="$PROJECT_DIR$/symbols/ACN/normalized/foo.csv" />
+        <option value="$PROJECT_DIR$/symbols/ACN/normalized/master.csv" />
+        <option value="$PROJECT_DIR$/nd100updater.py" />
+        <option value="$PROJECT_DIR$/customtrend.py" />
       </list>
     </option>
   </component>
@@ -245,6 +350,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Trends" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Trends" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Trends" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symbols" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YHOO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Trends" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Trends" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symbols" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YHOO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="normalized" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -331,6 +476,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ACN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Trends" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Trends" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symbols" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ACN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="normalized" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -977,12 +1144,12 @@
       <workItem from="1491244260665" duration="41000" />
       <workItem from="1491244324102" duration="7167000" />
       <workItem from="1492125403239" duration="243000" />
-      <workItem from="1492125705895" duration="24702000" />
+      <workItem from="1492125705895" duration="37476000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32153000" />
+    <option name="totallyTimeSpent" value="44927000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -998,7 +1165,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995943" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295688" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286004" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296146" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1010,8 +1177,8 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39350912" sideWeight="0.49791667" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32966456" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39350912" sideWeight="0.49791667" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1061,25 +1228,27 @@
           <option name="timeStamp" value="82" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/nd100updater.py</url>
-          <line>26</line>
-          <option name="timeStamp" value="90" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/nd100downloader.py</url>
           <line>8</line>
           <option name="timeStamp" value="93" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/nd100updater.py</url>
-          <line>31</line>
-          <option name="timeStamp" value="96" />
+          <line>66</line>
+          <option name="timeStamp" value="111" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="98" />
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="112" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -1088,26 +1257,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pandas/tools/merge.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22950">
-          <caret line="1395" column="4" lean-forward="false" selection-start-line="1395" selection-start-column="4" selection-end-line="1395" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pandas/util/decorators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ACN/normalized/2.csv" />
-    <entry file="file://$PROJECT_DIR$/ACN/normalized/3.csv" />
-    <entry file="file://$PROJECT_DIR$/ACN/1.csv" />
-    <entry file="file://$PROJECT_DIR$/ACN/2.csv" />
-    <entry file="file://$PROJECT_DIR$/ACN/normalized/4.csv" />
-    <entry file="file://$PROJECT_DIR$/stocks/AMZN.csv" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/ntpath.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1190">
@@ -1163,14 +1312,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/symbols/ACN/normalized/master.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-38305">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/symbols/ACN/16.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3931">
@@ -1187,50 +1328,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/glob.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pandas/core/frame.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="251" column="8" lean-forward="false" selection-start-line="251" selection-start-column="8" selection-end-line="251" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pandas/core/generic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="2478" column="8" lean-forward="false" selection-start-line="2478" selection-start-column="8" selection-end-line="2478" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/symbols/ACN/0.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="235" column="13" lean-forward="true" selection-start-line="235" selection-start-column="13" selection-end-line="235" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TrendNormalizer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="266" column="0" lean-forward="false" selection-start-line="266" selection-start-column="0" selection-end-line="266" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1240,7 +1341,7 @@
         <state relative-caret-position="102">
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
-            <element signature="e#142#162#0" expanded="true" />
+            <element signature="e#142#162#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1253,20 +1354,178 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/symbols/ACN/17.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-943">
+          <caret line="121" column="13" lean-forward="true" selection-start-line="121" selection-start-column="13" selection-end-line="121" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symbols/ACN/18.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/updatedownloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#35#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons/datetime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="293" column="8" lean-forward="false" selection-start-line="293" selection-start-column="8" selection-end-line="293" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pytrends/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="126" column="0" lean-forward="false" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pandas/core/internals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="2801" column="0" lean-forward="false" selection-start-line="2801" selection-start-column="0" selection-end-line="2801" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symbols/ACN/normalized/13.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-881">
+          <caret line="2939" column="8" lean-forward="false" selection-start-line="2939" selection-start-column="8" selection-end-line="2939" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="2743" column="0" lean-forward="false" selection-start-line="2743" selection-start-column="0" selection-end-line="2743" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TrendNormalizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="25" selection-end-column="75" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symbols/ACN/normalized/foo.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-35925">
+          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pandas/tools/merge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-269">
+          <caret line="1395" column="4" lean-forward="false" selection-start-line="1395" selection-start-column="4" selection-end-line="1395" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symbols/ACN/normalized/18.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/glob.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.IntelliJIdea2017.1/system/python_stubs/282273436/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="297" column="4" lean-forward="false" selection-start-line="297" selection-start-column="4" selection-end-line="297" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/nd100downloader.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="56" />
+        <state relative-caret-position="306">
+          <caret line="18" column="46" lean-forward="false" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
           <folding>
             <element signature="e#0#27#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SlidingWindowDownload.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="34" column="48" lean-forward="false" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symbols/ACN/normalized/master.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customtrend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="86" lean-forward="false" selection-start-line="15" selection-start-column="86" selection-end-line="15" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/nd100updater.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state relative-caret-position="289">
+          <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
@@ -1275,7 +1534,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/symbols/ACN/19.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-858">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -1289,62 +1548,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.IntelliJIdea2017.1/system/python_stubs/282273436/builtins.py">
+    <entry file="file://$PROJECT_DIR$/symbols/EBAY/normalized/master.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="5215" column="8" lean-forward="false" selection-start-line="5215" selection-start-column="8" selection-end-line="5215" selection-end-column="8" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pytrends/request.py">
+    <entry file="file://$PROJECT_DIR$/symbols/YHOO/normalized/master.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SlidingWindowDownload.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/customtrend.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/updatedownloader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/symbols/ACN/18.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/symbols/ACN/17.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-943">
-          <caret line="121" column="13" lean-forward="true" selection-start-line="121" selection-start-column="13" selection-end-line="121" selection-end-column="13" />
+        <state relative-caret-position="-38517">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

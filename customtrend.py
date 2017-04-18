@@ -10,8 +10,10 @@ class CustomTrend(TrendReq):
         google_password = "3G2FaQu977BT"
         super().__init__(google_username, google_password, custom_useragent='Pytrends for daize')
 
-    def __make_api_request(self, start_date, end_date, keywords):
-        self.build_payload(kw_list=[keywords], timeframe=self.__date_string(start_date,end_date))
+    def make_api_request(self, start_date, end_date, keywords):
+        date_string = self.__date_string(start_date,end_date)
+        self.build_payload(kw_list=[keywords], timeframe=date_string)
+        print("Fetching data for " + str(keywords) + " for date range: " + date_string)
         return self.interest_over_time()
 
     def __date_string(self, start_date, end_date):
