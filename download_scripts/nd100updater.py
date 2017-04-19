@@ -1,16 +1,18 @@
+import os
 import pandas as pd
-import SlidingWindowDownload
-from glob import glob
-from dateutil.parser import parse
 from datetime import datetime
 from datetime import timedelta
-from customtrend import CustomTrend
-import os
-import TrendNormalizer
+from glob import glob
+from internal import trendnormalizer
+from dateutil.parser import parse
+
+from internal.customtrend import CustomTrend
+
+SYMBOLS_LOCATION = "../symbols"
 
 
 def __last_index(symbol):
-    values = map(lambda x: int(os.path.basename(x).split('.csv')[0]), glob(os.path.join("symbols", symbol, "*.csv")))
+    values = map(lambda x: int(os.path.basename(x).split('.csv')[0]), glob(os.path.join(SYMBOLS_LOCATION, symbol, "*.csv")))
     return max(values)
 
 
@@ -18,20 +20,20 @@ def __update(start_date, end_date, symbol, master):
     custom_trend = CustomTrend()
     df = custom_trend.make_api_request(start_date, end_date, os.path.basename(symbol))
     # Sweet save this off to preserve data.
-    path = os.path.join("symbols", symbol, str(__last_index(symbol) + 1) + ".csv")
+    path = os.path.join(SYMBOLS_LOCATION, symbol, str(__last_index(symbol) + 1) + ".csv")
     df.to_csv(path_or_buf=path)
     # This is kind of frustrating, but pandas uses the date as an index and we want to convert it into a column.
     df.reset_index(level=0, inplace=True)
     # Also frustratingly when we do the above we get a date of format y-m-d-hh-mm-ss and we just want the y-m-d part.
     df['date'] = df['date'].dt.strftime("%Y-%m-%d")
     # Now we can actually normalize our data.
-    TrendNormalizer.normalize_pair(master, df)
+    trendnormalizer.normalize_pair(master, df)
     master = pd.concat([master, df])
     master = master.drop_duplicates(subset='date', keep='last')
     return master
 
 
-for symbol in glob("symbols/*"):
+for symbol in glob(SYMBOLS_LOCATION + "/*"):
     print("Updating symbol " + symbol)
     # Fetch our master.csv. This was created when we ran the nd100 batch downloader.
     master_normalized_path = os.path.join(symbol, "normalized", "master.csv")
