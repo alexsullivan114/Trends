@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3c3a676-b2f4-4f0f-a0a0-81c714964a33" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/download_scripts/nd100downloader.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nd100downloader.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/updatedownloader.py" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ND100.csv" afterPath="$PROJECT_DIR$/symbol_lists/ND100.csv" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SlidingWindowDownload.py" afterPath="$PROJECT_DIR$/internal/slidingwindowdownload.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TrendNormalizer.py" afterPath="$PROJECT_DIR$/internal/trendnormalizer.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/customtrend.py" afterPath="$PROJECT_DIR$/internal/customtrend.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/keyword_downloader.py" afterPath="$PROJECT_DIR$/download_scripts/keyworddownloader.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/keywords.csv" afterPath="$PROJECT_DIR$/symbol_lists/keywords.csv" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/master_download.py" afterPath="$PROJECT_DIR$/internal/masterdownload.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nd100updater.py" afterPath="$PROJECT_DIR$/download_scripts/nd100updater.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Trends.iml" afterPath="$PROJECT_DIR$/.idea/Trends.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="f3c3a676-b2f4-4f0f-a0a0-81c714964a33" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +65,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="keyworddownloader.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="keyworddownloader.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/download_scripts/keyworddownloader.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -91,36 +77,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="customtrend.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/internal/customtrend.py">
+      <file leaf-file-name="profit_analysis.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/analysis/profit_analysis.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="86" lean-forward="false" selection-start-line="15" selection-start-column="86" selection-end-line="15" selection-end-column="86" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="trendnormalizer.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/internal/trendnormalizer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="23" column="12" lean-forward="false" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+            <state relative-caret-position="-429">
+              <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
               <folding>
-                <element signature="e#0#28#0" expanded="true" />
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="slidingwindowdownload.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/internal/slidingwindowdownload.py">
+      <file leaf-file-name="july1.csv" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/analysis/aggregate_stats/july1.csv">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#37#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -225,6 +199,8 @@
         <option value="$PROJECT_DIR$/download_scripts/nd100updater.py" />
         <option value="$PROJECT_DIR$/download_scripts/nd100downloader.py" />
         <option value="$PROJECT_DIR$/download_scripts/keyworddownloader.py" />
+        <option value="$PROJECT_DIR$/analysis/aggregate_stats/july1.csv" />
+        <option value="$PROJECT_DIR$/analysis/profit_analysis.py" />
       </list>
     </option>
   </component>
@@ -327,6 +303,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Trends" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Trends" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="analysis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aggregate_stats" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -366,7 +360,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.keyworddownloader">
+  <component name="RunManager" selected="Python.profit_analysis">
     <configuration default="false" name="nd100downloader" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -381,25 +375,6 @@
       <module name="Trends" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="C:\Users\Alexs\code\Trends\download_scripts\nd100downloader.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="keyword_downloader" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Trends" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Alexs\code\Trends\download_scripts\keyworddownloader.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -457,6 +432,25 @@
       <module name="Trends" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/download_scripts/keyworddownloader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="profit_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/analysis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Trends" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/analysis/profit_analysis.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -532,18 +526,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.nd100downloader" />
-      <item index="1" class="java.lang.String" itemvalue="Python.keyword_downloader" />
-      <item index="2" class="java.lang.String" itemvalue="Python.nd100updater" />
-      <item index="3" class="java.lang.String" itemvalue="Python.nd100updater (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.keyworddownloader" />
+      <item index="1" class="java.lang.String" itemvalue="Python.nd100updater" />
+      <item index="2" class="java.lang.String" itemvalue="Python.nd100updater (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.keyworddownloader" />
+      <item index="4" class="java.lang.String" itemvalue="Python.profit_analysis" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.keyworddownloader" />
-        <item index="1" class="java.lang.String" itemvalue="Python.nd100updater (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.nd100downloader" />
-        <item index="3" class="java.lang.String" itemvalue="Python.nd100updater" />
-        <item index="4" class="java.lang.String" itemvalue="Python.keyword_downloader" />
+        <item index="0" class="java.lang.String" itemvalue="Python.profit_analysis" />
+        <item index="1" class="java.lang.String" itemvalue="Python.keyworddownloader" />
+        <item index="2" class="java.lang.String" itemvalue="Python.nd100updater (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.nd100downloader" />
+        <item index="4" class="java.lang.String" itemvalue="Python.nd100updater" />
       </list>
     </recent_temporary>
   </component>
@@ -582,17 +576,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1924" height="1084" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17819707" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995943" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892057" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286004" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296146" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39344263" sideWeight="0.49791667" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39344263" sideWeight="0.49791667" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -680,6 +675,11 @@
           <line>4</line>
           <option name="timeStamp" value="118" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/analysis/profit_analysis.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -691,13 +691,9 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="119" />
+      <option name="time" value="121" />
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="req_json" />
-      </configuration>
-    </watches-manager>
+    <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -897,6 +893,40 @@
           <folding>
             <element signature="e#0#27#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysis/aggregate_stats/.~lock.july1.csv#">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="426" column="8" lean-forward="false" selection-start-line="426" selection-start-column="8" selection-end-line="426" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysis/profit_analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-429">
+          <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysis/aggregate_stats/july1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
