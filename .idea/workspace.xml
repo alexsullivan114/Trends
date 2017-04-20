@@ -1,7 +1,215 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3c3a676-b2f4-4f0f-a0a0-81c714964a33" name="Default" comment="" />
+    <list default="true" id="f3c3a676-b2f4-4f0f-a0a0-81c714964a33" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/12.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/13.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/14.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/15.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/16.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/17.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/18.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/19.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/normalized/0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/normalized/1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/normalized/10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/normalized/11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/normalized/12.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/normalized/13.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/normalized/14.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/normalized/15.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/normalized/16.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/normalized/17.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/normalized/18.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/normalized/2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/normalized/3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/normalized/4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/normalized/5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/normalized/6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/normalized/7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/normalized/8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/normalized/9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/change/normalized/master.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/12.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/13.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/14.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/15.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/16.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/17.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/18.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/19.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/normalized/0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/normalized/1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/normalized/10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/normalized/11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/normalized/12.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/normalized/13.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/normalized/14.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/normalized/15.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/normalized/16.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/normalized/17.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/normalized/18.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/normalized/2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/normalized/3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/normalized/4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/normalized/5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/normalized/6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/normalized/7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/normalized/8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/normalized/9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/percentchange/normalized/master.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/12.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/13.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/14.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/15.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/16.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/17.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/18.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/19.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/normalized/0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/normalized/1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/normalized/10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/normalized/11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/normalized/12.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/normalized/13.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/normalized/14.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/normalized/15.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/normalized/16.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/normalized/17.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/normalized/18.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/normalized/2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/normalized/3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/normalized/4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/normalized/5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/normalized/6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/normalized/7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/normalized/8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/normalized/9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/price/normalized/master.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/12.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/13.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/14.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/15.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/16.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/17.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/18.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/19.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/normalized/0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/normalized/1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/normalized/10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/normalized/11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/normalized/12.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/normalized/13.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/normalized/14.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/normalized/15.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/normalized/16.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/normalized/17.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/normalized/18.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/normalized/2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/normalized/3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/normalized/4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/normalized/5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/normalized/6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/normalized/7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/normalized/8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/normalized/9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/stock/normalized/master.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/12.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/13.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/14.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/15.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/16.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/17.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/18.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/19.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/normalized/0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/normalized/1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/normalized/10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/normalized/11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/normalized/12.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/normalized/13.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/normalized/14.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/normalized/15.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/normalized/16.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/normalized/17.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/normalized/18.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/normalized/2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/normalized/3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/normalized/4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/normalized/5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/normalized/6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/normalized/7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/normalized/8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/normalized/9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/symbols/symbol/normalized/master.csv" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbol_lists/keywords.csv" afterPath="$PROJECT_DIR$/symbol_lists/keywords.csv" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +232,8 @@
       <file leaf-file-name="nd100updater.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/download_scripts/nd100updater.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-244">
-              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state relative-caret-position="200">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -33,46 +241,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="codecs.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/codecs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nd100downloader.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/download_scripts/nd100downloader.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ntpath.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/ntpath.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="234" column="0" lean-forward="false" selection-start-line="234" selection-start-column="0" selection-end-line="234" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="keyworddownloader.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/download_scripts/keyworddownloader.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="34">
+              <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="customsymboldownloader.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/download_scripts/customsymboldownloader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -81,7 +267,7 @@
         <entry file="file://$PROJECT_DIR$/analysis/profit_analysis.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-429">
-              <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+              <caret line="21" column="39" lean-forward="false" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -89,11 +275,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="july1.csv" pinned="false" current-in-tab="true">
+      <file leaf-file-name="july1.csv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/analysis/aggregate_stats/july1.csv">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="slidingwindowdownload.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/internal/slidingwindowdownload.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="26" column="22" lean-forward="false" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="customtrend.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/internal/customtrend.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="request.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pytrends/request.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="127" column="0" lean-forward="false" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="keywords.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/symbol_lists/keywords.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="35" lean-forward="true" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -104,16 +332,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/internal/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -201,6 +419,8 @@
         <option value="$PROJECT_DIR$/download_scripts/keyworddownloader.py" />
         <option value="$PROJECT_DIR$/analysis/aggregate_stats/july1.csv" />
         <option value="$PROJECT_DIR$/analysis/profit_analysis.py" />
+        <option value="$PROJECT_DIR$/download_scripts/customsymboldownloader.py" />
+        <option value="$PROJECT_DIR$/symbol_lists/keywords.csv" />
       </list>
     </option>
   </component>
@@ -244,6 +464,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Trends" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symbols" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -298,28 +522,6 @@
               <option name="myItemId" value="Trends" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="analysis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Trends" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Trends" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="analysis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="aggregate_stats" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -360,7 +562,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.profit_analysis">
+  <component name="RunManager" selected="Python.nd100updater (1)">
     <configuration default="false" name="nd100downloader" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -375,25 +577,6 @@
       <module name="Trends" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="C:\Users\Alexs\code\Trends\download_scripts\nd100downloader.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="nd100updater" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Trends" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Alexs\code\Trends\download_scripts\nd100updater.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -456,6 +639,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="customsymboldownloader" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/download_scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Trends" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/download_scripts/customsymboldownloader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -467,7 +669,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
+      <module name="Trends" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
@@ -526,18 +728,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.nd100downloader" />
-      <item index="1" class="java.lang.String" itemvalue="Python.nd100updater" />
-      <item index="2" class="java.lang.String" itemvalue="Python.nd100updater (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.keyworddownloader" />
-      <item index="4" class="java.lang.String" itemvalue="Python.profit_analysis" />
+      <item index="1" class="java.lang.String" itemvalue="Python.nd100updater (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.keyworddownloader" />
+      <item index="3" class="java.lang.String" itemvalue="Python.profit_analysis" />
+      <item index="4" class="java.lang.String" itemvalue="Python.customsymboldownloader" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.profit_analysis" />
-        <item index="1" class="java.lang.String" itemvalue="Python.keyworddownloader" />
-        <item index="2" class="java.lang.String" itemvalue="Python.nd100updater (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.nd100downloader" />
-        <item index="4" class="java.lang.String" itemvalue="Python.nd100updater" />
+        <item index="0" class="java.lang.String" itemvalue="Python.customsymboldownloader" />
+        <item index="1" class="java.lang.String" itemvalue="Python.profit_analysis" />
+        <item index="2" class="java.lang.String" itemvalue="Python.keyworddownloader" />
+        <item index="3" class="java.lang.String" itemvalue="Python.nd100updater (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.nd100downloader" />
       </list>
     </recent_temporary>
   </component>
@@ -582,7 +784,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995943" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892057" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -595,20 +797,32 @@
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995943" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39344263" sideWeight="0.49791667" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296146" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17819707" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892057" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -700,6 +914,167 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/internal/slidingwindowdownload.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/masterdownload.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5236">
+          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symbol_lists/ND100.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/trendnormalizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="12" lean-forward="false" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/slidingwindowdownload.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="26" column="22" lean-forward="false" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/masterdownload.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="234" column="0" lean-forward="false" selection-start-line="234" selection-start-column="0" selection-end-line="234" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symbols/ACN/21.csv" />
+    <entry file="file://$PROJECT_DIR$/download_scripts/nd100downloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download_scripts/keyworddownloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysis/aggregate_stats/.~lock.july1.csv#" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="426" column="8" lean-forward="false" selection-start-line="426" selection-start-column="8" selection-end-line="426" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysis/profit_analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-429">
+          <caret line="21" column="39" lean-forward="false" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysis/aggregate_stats/july1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download_scripts/nd100updater.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/customtrend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pytrends/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="127" column="0" lean-forward="false" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/download_scripts/nd100updater.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -724,7 +1099,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -778,7 +1152,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -786,7 +1159,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5236">
           <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -794,14 +1166,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/internal/customtrend.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="86" lean-forward="false" selection-start-line="15" selection-start-column="86" selection-end-line="15" selection-end-column="86" />
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -818,19 +1189,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/internal/slidingwindowdownload.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="303">
+          <caret line="26" column="22" lean-forward="false" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="22" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/internal/masterdownload.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -838,7 +1201,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -846,7 +1208,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
           <caret line="234" column="0" lean-forward="false" selection-start-line="234" selection-start-column="0" selection-end-line="234" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -854,22 +1215,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
           <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/symbols/ACN/21.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3958">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/symbols/ACN/21.csv" />
     <entry file="file://$PROJECT_DIR$/download_scripts/nd100updater.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-244">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="200">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
@@ -886,36 +1239,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/download_scripts/keyworddownloader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/analysis/aggregate_stats/.~lock.july1.csv#">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/analysis/aggregate_stats/.~lock.july1.csv#" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pandas/core/generic.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="426" column="8" lean-forward="false" selection-start-line="426" selection-start-column="8" selection-end-line="426" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/analysis/profit_analysis.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-429">
-          <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+          <caret line="21" column="39" lean-forward="false" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
@@ -926,6 +1261,56 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symbols/ACN/normalized/master.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="121" column="28" lean-forward="false" selection-start-line="121" selection-start-column="28" selection-end-line="121" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/masterdownload.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symbols/percentchange/normalized/master.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="2286" column="14" lean-forward="false" selection-start-line="2286" selection-start-column="14" selection-end-line="2286" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download_scripts/keyworddownloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symbol_lists/keywords.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="35" lean-forward="true" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download_scripts/customsymboldownloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
           <folding />
         </state>
       </provider>
