@@ -1,4 +1,6 @@
 import pandas as pd
+import os
+import glob
 from collections import namedtuple
 
 STOCK = "stock"
@@ -17,26 +19,42 @@ StockRevenue = namedtuple("StockRevenue", ['one_week_rev', 'two_week_rev', 'four
                                            'random'])
 
 
-def analyze(df, starting_cash=10000, stock_limit=5, random_check_degree=5):
+def analyze_model(starting_cash=10000, stock_limit=3, random_check_degree=5):
+    paths = [x for x in glob.glob("aggregate_stats/july_model/*")]
+    df_dict = {}
+    for path in paths:
+        date_df = __analyze_date(pd.read_csv(path), starting_cash, stock_limit, random_check_degree)
+        df_dict[os.path.basename(path).split(".csv")[0]] = date_df
+    master_df = pd.concat(df_dict, axis=0)
+    print(master_df.groupby(level=1).mean())
+
+
+def __analyze_date(df, starting_cash, stock_limit, random_check_degree):
     # Build up a list of random values to be distilled down to one truly random stock revenue object.
     randoms = [__build_random_sample(df, starting_cash, stock_limit) for _ in range(random_check_degree)]
-    random_rev = StockRevenue(sum(x.one_week_rev for x in randoms)/len(randoms),
-                              sum(x.two_week_rev for x in randoms)/len(randoms),
-                              sum(x.four_week_rev for x in randoms)/len(randoms),
-                              sum(x.eight_week_rev for x in randoms)/len(randoms),
-                              "average", "true")
-    # Now compare each of our stock groupings against our true average
+    random_rev = StockRevenue(sum(x.one_week_rev for x in randoms) / len(randoms),
+                              sum(x.two_week_rev for x in randoms) / len(randoms),
+                              sum(x.four_week_rev for x in randoms) / len(randoms),
+                              sum(x.eight_week_rev for x in randoms) / len(randoms),
+                              AVERAGE, "true")
+    indexes = [AVERAGE, WEIGHTED_AVERAGE, IND_AVERAGE, SELF, IND_SELF]
+    columns = ["one_week_vs_rand", "two_week_vs_rand", "four_week_vs_rand", "eight_week_vs_rand"]
+    new_df = pd.DataFrame(index=indexes, columns=columns, dtype=float)
+    # Loop through all of our revenue data and build up a dataframe representing this time period.
+    # Going to define a lil' helper method here
+
+    def percprofitstr(rev, randrev):
+        if (randrev == 0 and rev == 0):
+            return 1
+        return rev/randrev # Bleh division by zero will ruin everything here. Fix this...
+
     for stockrev in __analyze_defaults(df, starting_cash, stock_limit):
-        print ("Evaluation data for column " + stockrev.column + " with starting cash: $" + str(starting_cash) +
-               ", stock limit: " + str(stock_limit) + " and random access: " + str(stockrev.random))
-        print("One week profit: " + str(stockrev.one_week_rev - starting_cash))
-        print("One week profit as % of random access: " + str(stockrev.one_week_rev/random_rev.one_week_rev))
-        print("Two week profit: " + str(stockrev.two_week_rev - starting_cash))
-        print("Two week profit as % of random access: " + str(stockrev.two_week_rev / random_rev.two_week_rev))
-        print("Four week profit: " + str(stockrev.four_week_rev - starting_cash))
-        print("Four week profit as % of random access: " + str(stockrev.four_week_rev / random_rev.four_week_rev))
-        print("Eight week profit: " + str(stockrev.eight_week_rev - starting_cash))
-        print("Eight week profit as % of random access: " + str(stockrev.eight_week_rev / random_rev.eight_week_rev))
+        new_df.loc[stockrev.column] = [percprofitstr(stockrev.one_week_rev, random_rev.one_week_rev),
+                                       percprofitstr(stockrev.two_week_rev, random_rev.two_week_rev),
+                                       percprofitstr(stockrev.four_week_rev, random_rev.four_week_rev),
+                                       percprofitstr(stockrev.eight_week_rev, random_rev.eight_week_rev)]
+    return new_df
+
 
 def __analyze_defaults(df, starting_cash, stock_limit):
     avg_rev = __calculate_profit(df, starting_cash, stock_limit, AVERAGE, ascending=False)
@@ -92,6 +110,4 @@ def __calculate_profit(df: pd.DataFrame, starting_cash: int, stock_limit: int, c
 
     return StockRevenue(one_week_rev, two_week_rev, four_week_rev, eight_week_rev, column_to_sort, random)
 
-
-july1 = pd.read_csv("aggregate_stats/july_model/aug15.csv")
-analyze(july1)
+analyze_model()
