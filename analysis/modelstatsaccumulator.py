@@ -8,7 +8,7 @@ VALUES_START_ROW_INDEX = 2
 VALUES_END_ROW_INDEX = 89
 
 
-f = pd.ExcelFile("C:\\Users\\Alexs\\Downloads\\Nov100.xlsm")
+f = pd.ExcelFile("C:\\Users\\Alexs\\Downloads\\JulyWiki100.xlsm")
 sheet_names = f.sheet_names[2:]
 print(sheet_names)
 for s in sheet_names:
@@ -24,4 +24,4 @@ for s in sheet_names:
     analysys = analysys.drop(analysys.index[0])
     # Now assign our price to the analysis.
     analysys = analysys.assign(price=price['price'])
-    analysys.to_csv(path_or_buf=os.path.join(os.getcwd(), "aggregate_stats", "november_model", s.lower().replace(" ", "") + ".csv"), index=False)
+    analysys.to_csv(path_or_buf=os.path.join(os.getcwd(), "aggregate_stats", "july_wiki_model", s.lower().replace(" ", "") + ".csv"), index=False)

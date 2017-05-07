@@ -20,7 +20,7 @@ StockRevenue = namedtuple("StockRevenue", ['one_week_rev', 'two_week_rev', 'four
 
 
 def analyze_model(starting_cash=10000, stock_limit=3, random_check_degree=5):
-    paths = [x for x in glob.glob("aggregate_stats/july_model/*")]
+    paths = [x for x in glob.glob("aggregate_stats/july_wiki_model/*")]
     df_dict = {}
     for path in paths:
         date_df = __analyze_date(pd.read_csv(path), starting_cash, stock_limit, random_check_degree)
