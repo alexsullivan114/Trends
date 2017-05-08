@@ -32,7 +32,6 @@ def __update(start_date, end_date, symbol, master):
     master = master.drop_duplicates(subset='date', keep='last')
     return master
 
-
 for symbol in glob(SYMBOLS_LOCATION + "/*"):
     print("Updating symbol " + symbol)
     # Fetch our master.csv. This was created when we ran the nd100 batch downloader.
