@@ -16,7 +16,7 @@ class CustomTrend(TrendReq):
         self.build_payload(kw_list=[keywords], timeframe=date_string)
         print("Fetching data for " + str(keywords) + " for date range: " + date_string)
         df = self.interest_over_time()
-        if end_date == datetime.date.today():
+        if end_date.date() == datetime.date.today():
             return self.up_to_date_data(df, keywords)
         else:
             return df
@@ -28,15 +28,21 @@ class CustomTrend(TrendReq):
         return start_time_string + ' ' + end_time_string
 
     def up_to_date_data(self, df, keywords):
-        self.build_payload(kw_list=keywords, timeframe="now 7-d")
+        self.build_payload(kw_list=[keywords], timeframe="now 7-d")
         # We get the last 7 days, which comes in the form of hour by hour data, and aggregate the hours into days.
         # Luckily pandas makes this really really easy, which is awesome.
         latest = self.interest_over_time().resample('D').mean()
         # Now we want to normalize the new portions of data against the provided data so it seems like one
-        # continuous block of data
+        # continuous block of data. To do this we need to convert our datetime index into a normal column, since the
+        # normalizer expects data in that format.
+        df.reset_index(level=0, inplace=True)
+        latest.reset_index(level=0, inplace=True)
         trendnormalizer.normalize_pair(df, latest)
+        # Now let's convert back to the datetime index
+        df.set_index('date', inplace=True)
+        latest.set_index('date', inplace=True)
         # Now we need to just add the missing bit onto the original df and return that.
         last_date_original = df.index.max()
         last_date_new = latest.index.max()
         df_range = latest[last_date_original: last_date_new]
-        return pd.concat(df, df_range)
+        return pd.concat([df, df_range])
