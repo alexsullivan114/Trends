@@ -12,6 +12,13 @@ class CustomTrend(TrendReq):
         super().__init__(google_username, google_password, custom_useragent='Pytrends for daize')
 
     def make_api_request(self, start_date, end_date, keywords):
+        # If we have less than 7 days then we just get the last n days and average the hours out into individual days.
+        delta = end_date - start_date
+        if delta <= datetime.timedelta(days=7):
+            print("Fetching data for " + str(keywords) + " for date range: " + self.__date_string(start_date, end_date))
+            self.build_payload(kw_list=[keywords], timeframe="now 7-d")
+            df = self.interest_over_time().resample('D').mean().tail(delta.days)
+            return df
         date_string = self.__date_string(start_date,end_date)
         self.build_payload(kw_list=[keywords], timeframe=date_string)
         print("Fetching data for " + str(keywords) + " for date range: " + date_string)
