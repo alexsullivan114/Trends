@@ -23,7 +23,7 @@ def __update(start_date, end_date, symbol, master):
     path = os.path.join(SYMBOLS_LOCATION, symbol, str(__last_index(symbol) + 1) + ".csv")
     df.to_csv(path_or_buf=path)
     # This is kind of frustrating, but pandas uses the date as an index and we want to convert it into a column.
-    df.reset_index(level=0, inplace=True)
+    df.reset_index(level=[0], inplace=True)
     # Also frustratingly when we do the above we get a date of format y-m-d-hh-mm-ss and we just want the y-m-d part.
     df['date'] = df['date'].dt.strftime("%Y-%m-%d")
     # Now we can actually normalize our data.

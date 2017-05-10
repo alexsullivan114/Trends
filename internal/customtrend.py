@@ -42,8 +42,8 @@ class CustomTrend(TrendReq):
         # Now we want to normalize the new portions of data against the provided data so it seems like one
         # continuous block of data. To do this we need to convert our datetime index into a normal column, since the
         # normalizer expects data in that format.
-        df.reset_index(level=0, inplace=True)
-        latest.reset_index(level=0, inplace=True)
+        df.reset_index(level=[0], inplace=True)
+        latest.reset_index(level=[0], inplace=True)
         trendnormalizer.normalize_pair(df, latest)
         # Now let's convert back to the datetime index
         df.set_index('date', inplace=True)
