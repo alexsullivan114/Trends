@@ -3,12 +3,12 @@ import pandas as pd
 from datetime import datetime
 from datetime import timedelta
 from glob import glob
-from internal import trendnormalizer
 from dateutil.parser import parse
 
+from internal import trendnormalizer
 from internal.customtrend import CustomTrend
 
-SYMBOLS_LOCATION = "../symbols"
+SYMBOLS_LOCATION = "symbols"
 
 
 def __last_index(symbol):
