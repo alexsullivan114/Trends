@@ -2,14 +2,11 @@ from pytrends.request import TrendReq
 import datetime
 from internal import trendnormalizer
 import pandas as pd
+
+
 class CustomTrend(TrendReq):
 
     MAX_WINDOW_SIZE = 260
-
-    def __init__(self):
-        google_username = "trends.acc.1@gmail.com"
-        google_password = "3G2FaQu977BT"
-        super().__init__(google_username, google_password, custom_useragent='Pytrends for daize')
 
     def make_api_request(self, start_date, end_date, keywords):
         # If we have less than 7 days then we just get the last n days and average the hours out into individual days.

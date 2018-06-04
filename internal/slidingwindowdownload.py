@@ -9,10 +9,7 @@ DAYS_TO_FETCH = 260
 class SlidingWindowDownload(object):
 
     def __init__(self):
-        google_username = "trends.acc.1@gmail.com"
-        google_password = "3G2FaQu977BT"
-
-        self.pytrend = TrendReq(google_username, google_password, custom_useragent='Pytrends for daize')
+        self.pytrend = TrendReq()
 
     def download(self, start_date, end_date, keywords):
         # start DAYS_TO_FETCH/2 so we can get the double data on each pass
