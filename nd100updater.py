@@ -26,6 +26,7 @@ def __update(start_date, end_date, symbol, master):
     # This is kind of frustrating, but pandas uses the date as an index and we want to convert it into a column.
     df.reset_index(level=[0], inplace=True)
     # Also frustratingly when we do the above we get a date of format y-m-d-hh-mm-ss and we just want the y-m-d part.
+    # TODO: Use utilities.normalize_date here
     df['date'] = df['date'].dt.strftime("%Y-%m-%d")
     # Now we can actually normalize our data.
     trendnormalizer.normalize_pair(master, df)
