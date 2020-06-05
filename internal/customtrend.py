@@ -1,7 +1,7 @@
-from pytrends.request import TrendReq
 import datetime
-from internal import trendnormalizer
 import pandas as pd
+from pytrends.request import TrendReq
+from internal import trendnormalizer
 
 
 class CustomTrend(TrendReq):
@@ -20,7 +20,8 @@ class CustomTrend(TrendReq):
         self.build_payload(kw_list=[keywords], timeframe=date_string)
         print("Fetching data for " + str(keywords) + " for date range: " + date_string)
         df = self.interest_over_time()
-        if end_date.date() == datetime.date.today():
+        thisday = datetime.date.today()# - datetime.timedelta(days=1)
+        if end_date.date() == thisday:
             return self.up_to_date_data(df, keywords)
         else:
             return df

@@ -51,7 +51,7 @@ for symbol in glob(SYMBOLS_LOCATION + "/*"):
             last_date_str = master_normalized_df.tail(1)['date'].values[0]
             # Turn that shit into a datetime
             last_value_date = parse(last_date_str)
-            today = datetime.today()
+            today = datetime.today() #- timedelta(days=1)
             if last_value_date >= today:
                 hasSucceeded = True
                 continue
@@ -71,6 +71,8 @@ for symbol in glob(SYMBOLS_LOCATION + "/*"):
             master_normalized_df = __update(last_value_date, end_date, os.path.basename(symbol), master_normalized_df)
             # Sweet, reset the index to be our date and save it.
             master_normalized_df.set_index('date', inplace=True)
+            # WOOOO DOPERS
+            master_normalized_df.drop(master_normalized_df.tail(1).index,inplace=True)
             master_normalized_df.to_csv(path_or_buf=master_normalized_path)
 
             hasSucceeded = True

@@ -23,6 +23,7 @@ def normalize(path):
     except FileNotFoundError:
         pass
 
+    final_df.to_csv(path_or_buf=final_df) # HEY ME I ADDED THIS YOUY FUCKING IDIOT
     final_df.to_csv(path_or_buf=os.path.join(normalized_path, "master.csv"), index=False)
 
 
@@ -40,8 +41,8 @@ def normalize_pair(old, new, increment_old=False):
     ratio = sum(l_values) / sum(r_values)
     # Apply the normalizing ratio.
     new['value'] = new['value'].apply(lambda x: x * ratio)
-    average_pair(old, new)
-
+    #average_pair(old, new)
+    # I GOT RID OF THIS SHIT CUZ IM cRAY
 
 def average_pair(old, new):
     df_intersection = pd.merge(old, new, how='inner', on='date', suffixes=('_l', '_r'))
